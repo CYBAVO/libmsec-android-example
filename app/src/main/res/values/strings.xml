@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CYBAVO Device Security Example</string>
+
+    <string name="action_detect">Detect Now</string>
+
+    <string name="label_security_jail_broken">Jail broken: %s</string>
+    <string name="label_security_hook">Hook framework: %s</string>
+    <string name="label_security_emulator">Emulator: %s</string>
+    <string name="label_security_virtual_app">Virtual environment: %s</string>
+    <string name="label_security_mock_location">Mock location: %s</string>
+    <string name="label_security_ext_storage">On external storage: %s</string>
+    <string name="label_security_dev_settings">Developer settings ON: %s</string>
+    <string name="label_security_debugger">Debugging mode: %s</string>
+    <string name="label_security_adb">ADB ON: %s</string>
+
+    <string name="label_unknown">Undetermined</string>
+    <string name="label_undetected">PASSED</string>
+    <string name="label_detected">DETECTED!</string>
+</resources>
